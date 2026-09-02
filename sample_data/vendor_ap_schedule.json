@@ -1,0 +1,13 @@
+{
+  "totalRemaining": 4820.50,
+  "dueDateDetail": [
+    {"vendor": "Vendor A", "amount": 612.00, "dueDate": "2026-09-08"},
+    {"vendor": "Vendor B", "amount": 340.25, "dueDate": "2026-09-08"},
+    {"vendor": "Vendor C", "amount": 890.00, "dueDate": "2026-09-15"},
+    {"vendor": "Vendor D", "amount": 455.75, "dueDate": "2026-09-22"},
+    {"vendor": "Vendor E", "amount": 1120.00, "dueDate": "2026-09-29"},
+    {"vendor": "Vendor F", "amount": 702.50, "dueDate": "2026-10-06"},
+    {"vendor": "Vendor G", "amount": 300.00, "dueDate": null},
+    {"vendor": "Vendor H", "amount": 400.00, "dueDate": null}
+  ]
+}
